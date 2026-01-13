@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**Atharva-sp21/Atharva-sp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Atharva Shrikant**, a B.Tech student in **Computational & Data Science** at **NITK Surathkal**, with a strong interest in **machine learning, systems, and Web3**.
 
-Here are some ideas to get you started:
+I enjoy building **research-driven and production-ready systems**, working across ML, backend APIs, and decentralized platforms. I’m especially interested in projects that sit at the intersection of **AI, optimization, and real-world impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always excited to **learn by building and collaborating in teams** 🤝
+
+---
+
+## 🧠 Areas of Interest
+- Machine Learning & Deep Learning  
+- Graph Neural Networks & Geometric ML  
+- Backend Systems & Model Deployment  
+- Blockchain & Decentralized Applications  
+- Applied Research & Competitive Programming  
+
+---
+
+## 💻 Tech Stack
+
+### **Languages**
+- C / C++
+- Python
+- JavaScript
+- Solidity
+
+### **ML & Data**
+- PyTorch  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- LangChain  
+
+### **Backend & DevOps**
+- FastAPI  
+- Streamlit  
+- Docker  
+- Docker Compose  
+- Git  
+
+### **Blockchain & Web3**
+- Ethereum  
+- Ethers.js  
+- MetaMask  
+- IPFS  
+
