@@ -1,51 +1,44 @@
-![Hey, I'm Atharva. A notebook full of code, models, and a few doodles.](assets/notebook-cover.svg)
+<p>
+  <img src="assets/profile-header.svg" width="100%" alt="Atharva Shrikant — machine learning, quantum computing, and systems." />
+</p>
 
-I work on machine learning projects, and I’ve been exploring quantum computing too. This is where I keep the code: models built from scratch, experiments with graphs and audio, and the occasional C++ project.
+I build machine learning models and the systems around them. My work spans geometric deep learning, quantum circuits, audio, and backend infrastructure.
 
-If something here looks interesting, have a look around :)
+### Selected work
 
-## A few things I’ve built
+| Project | Focus |
+| :--- | :--- |
+| [Gramin Route](https://github.com/Atharva-sp21/Gramin-Route) | Stockout prediction and rural delivery routing with XGBoost and GATv2. |
+| [Quantum protein models](https://github.com/Atharva-sp21/Quantum-Equivariant-Graph-Neural-Networks-for-Protein-Modeling) | SE(3)-equivariant graph networks with hybrid quantum–classical architectures. |
+| [Transformer from scratch](https://github.com/Atharva-sp21/Transformer_From_Scratch) | An implementation of the architecture from *Attention Is All You Need*. |
+| [Latent Groove](https://github.com/Atharva-sp21/Latent-Groove) | Audio timbre morphing and style transfer with RAVE, FastAPI, and React. |
+| [SeatGuard](https://github.com/Atharva-sp21/SeatGuard) | Concurrent seat booking in C++20 and PostgreSQL, using row-level locks. |
+| [LungLens](https://github.com/Atharva-sp21/LungLens) | Anomaly detection research with a convolutional VAE trained on healthy chest X-rays. |
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Atharva-sp21/Gramin-Route"><img src="assets/gramin-route-note.svg" width="100%" alt="Gramin Route — stockout prediction and rural delivery routing with XGBoost and GATv2. Open the repo." /></a></td>
-<td width="50%"><a href="https://github.com/Atharva-sp21/Quantum-Equivariant-Graph-Neural-Networks-for-Protein-Modeling"><img src="assets/quantum-proteins-note.svg" width="100%" alt="Quantum + proteins — equivariant graph networks and quantum circuits for protein modeling. Open the repo." /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Atharva-sp21/Transformer_From_Scratch"><img src="assets/transformer-note.svg" width="100%" alt="Transformer, from scratch — my implementation of Attention Is All You Need. Open the repo." /></a></td>
-<td width="50%"><a href="https://github.com/Atharva-sp21/Latent-Groove"><img src="assets/latent-groove-note.svg" width="100%" alt="Latent Groove — audio timbre morphing and style transfer with RAVE. Open the repo." /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Atharva-sp21/SeatGuard"><img src="assets/seatguard-note.svg" width="100%" alt="SeatGuard — a C++20 and PostgreSQL seat-booking backend exploring concurrent requests and row-level locking. Open the repo." /></a></td>
-<td width="50%"><a href="https://github.com/Atharva-sp21/LungLens"><img src="assets/lunglens-note.svg" width="100%" alt="LungLens — a convolutional VAE trained on healthy X-rays for anomaly detection research. Open the repo." /></a></td>
-</tr>
-</table>
+[All repositories ↗](https://github.com/Atharva-sp21?tab=repositories)
 
-[The rest of my repos →](https://github.com/Atharva-sp21?tab=repositories)
+### In progress
 
-## What I’m working on
+- **[Gated quantum CVRP](https://github.com/Atharva-sp21/gated-quantum-cvrp)** — a vehicle-routing research pipeline with gated quantum bottlenecks. Implementation is in place; training and results are pending.
+- **[Policy-driven inference](https://github.com/Atharva-sp21/Policy-Driven-Multi-Model-Inference-System)** — selecting CNNs by latency, accuracy, or robustness.
 
-Recently, I’ve been building a [vehicle-routing research pipeline](https://github.com/Atharva-sp21/gated-quantum-cvrp) with gated quantum bottlenecks. The implementation is there; training and results are still to come.
+### Tools
 
-There’s also a [model-selection project](https://github.com/Atharva-sp21/Policy-Driven-Multi-Model-Inference-System) about choosing between CNNs based on speed, accuracy, or robustness.
+**Models** · Python, PyTorch, NumPy, Pandas, Matplotlib, LangChain  
 
-## Things I use
+**Systems & applications** · C++, PostgreSQL, FastAPI, React, JavaScript, Docker, Git  
 
-**For ML:** Python, PyTorch, NumPy, Pandas, Matplotlib, LangChain.<br />
-**For apps and systems:** FastAPI, React, JavaScript, C++, PostgreSQL, Docker, Git.<br />
-**For blockchain projects:** Solidity, Ethereum, Ethers.js, IPFS.
+**Blockchain** · Solidity, Ethereum, Ethers.js, IPFS
 
 <details>
-<summary>A couple more projects</summary>
+<summary>More work</summary>
 
-- [Voting + budget tracking](https://github.com/Atharva-sp21/decentralized-voting-budget-tracking-system) with Solidity and React.
-- [An agent from scratch](https://github.com/Atharva-sp21/Agent_From_Scratch).
-- [An image caption generator](https://github.com/Atharva-sp21/Image_Caption_Generator).
+- [Decentralized voting and budget tracking](https://github.com/Atharva-sp21/decentralized-voting-budget-tracking-system)
+- [Agent from scratch](https://github.com/Atharva-sp21/Agent_From_Scratch)
+- [Image caption generator](https://github.com/Atharva-sp21/Image_Caption_Generator)
 
 </details>
 
-<br />
-
-<a href="https://www.linkedin.com/in/atharva-shrikant-a2397b31b/"><img src="assets/say-hi.svg" width="100%" alt="Say hi! Always happy to talk about a project." /></a>
+---
 
 [LinkedIn](https://www.linkedin.com/in/atharva-shrikant-a2397b31b/) · [Email](mailto:atharva.sp21@gmail.com)
